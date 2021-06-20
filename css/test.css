@@ -1,0 +1,17 @@
+body{
+	background-color: lightblue;
+}
+h1 {font-size: 40px;color: hotpink;}
+		h2{
+			font-size: 35px;
+			color: yellowgreen;
+
+		}
+		.space {
+			font-size: 50px;
+			color: darkgoldenrod;
+		}
+		.ravinder{
+			font-size: 50px;
+			color: gray;
+		}
